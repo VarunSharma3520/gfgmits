@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "bradlc.vscode-tailwindcss",
+    "ms-vsliveshare.vsliveshare",
+    "rangav.vscode-thunder-client",
+    "gruntfuggly.todo-tree"
+  ]
+}
